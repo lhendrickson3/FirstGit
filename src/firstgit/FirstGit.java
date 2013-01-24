@@ -14,5 +14,6 @@ public class FirstGit {
         System.out.println("Hello World");
         System.out.println("Good Bye World");
         System.out.println("LRH");
+        System.out.println("Is this thing working?");
     }
 }
